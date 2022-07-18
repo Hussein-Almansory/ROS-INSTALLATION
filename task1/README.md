@@ -81,7 +81,7 @@ sudo rosdep init
 rosdep update
 ```
 
-### Finally: in the terminal we write this command to make sure **ROS** was donloaded successfully
+### Finally: in the terminal we write this command to make sure **ROS** was downloaded successfully
 ```
 roscore
 ```
